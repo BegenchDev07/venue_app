@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "Sport Venue Booker",
+  "usingComponents": {
+    "comp": "../../comp"
+  }
+}
